@@ -1,0 +1,75 @@
+﻿body {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+    background-color: #0B3861;
+}
+
+#wrapper {
+    text-align: center;
+    margin: 0 auto;
+    padding: 0px;
+    width: 995px;
+}
+
+#output_image {
+    width: 170px;
+    height: 180px;
+}
+
+#output_sign {
+    width: 240px;
+    height: 80px;
+}
+
+#sub-head h3 {
+    background-color: #0055AC;
+    color: #fff;
+    padding: 5px 10px;
+    font-size: 20px;
+}
+
+#id-proof h3 {
+    background-color: #0055AC;
+    color: #fff;
+    padding: 5px 10px;
+    font-size: 20px;
+}
+
+#proof-head p {
+    font-size: 14px;
+    text-align: justify;
+}
+
+#address-proof h3 {
+    background-color: #0055AC;
+    color: #fff;
+    padding: 5px 10px;
+    font-size: 20px;
+}
+
+#address-head p {
+    font-size: 14px;
+    text-align: justify;
+}
+
+#contact-details h3 {
+    background-color: #0055AC;
+    color: #fff;
+    padding: 5px 10px;
+    font-size: 20px;
+}
+
+#contact-details span {
+    font-size: 14px;
+}
+
+#declration p {
+    font-size: 15px;
+    text-align: justify;
+}
+input.mycheckbox {
+    width: 18px;
+    height: 18px;
+}
