@@ -16,12 +16,12 @@ namespace WebKYC
 
         protected void Button1_Click(object sender, EventArgs e)
         {
-            Response.Redirect("http://trustedkyc.somee.com/IndividualKyc.aspx");
+            Response.Redirect("IndividualKyc.aspx");
         }
 
         protected void Button2_Click(object sender, EventArgs e)
         {
-            Response.Redirect("http://trustedkyc.somee.com/NonIndividualKyc.aspx");
+            Response.Redirect("NonIndividualKyc.aspx");
         }
     }
 }
